@@ -1,5 +1,11 @@
 # **NEPPO - Teste Java 1** #
 
-Este teste consiste na implementação do método [subsetSumChecker](https://bitbucket.org/neppo/java-1/src/baf57a170b84327e71cce8f84b4c461f4abe6f38/src/main/java/br/com/neppo/MathUtil.java?at=master&fileviewer=file-view-default#MathUtil.java-15) de forma que passe em todos os testes unitários em [MathUtilTest](https://bitbucket.org/neppo/java-1/src/baf57a170b84327e71cce8f84b4c461f4abe6f38/src/test/java/br/com/neppo/MathUtilTest.java?at=master&fileviewer=file-view-default)
+João Armless está com um problema em sua vida acadêmica. Por mais que tente, não consegue fazer com que o projeto que pagou para que uma equipe altamente qualificada situada me Xangai desenvolver, rode sem erros.
 
-Sugestão de IDE: [Intellij](https://www.jetbrains.com/idea/download)
+Desta forma, comovidos com o caso do pobre Joãozinho, a Neppo decidiu ajudá-lo.
+
+A sua tarefa é encontrar o motivo que faz com que os testes unitários do nosso nobre amigo falhem todos.
+
+A equipe chinesa sugiriu o uso da IDE: [Intellij](https://www.jetbrains.com/idea/download)
+
+Nos ajude!
