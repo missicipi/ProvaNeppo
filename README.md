@@ -4,7 +4,7 @@ João Armless está com um problema em sua vida acadêmica. Por mais que tente, 
 
 Desta forma, comovidos com o caso do pobre Joãozinho, a Neppo decidiu ajudá-lo.
 
-A sua tarefa é encontrar o motivo que faz com que os testes unitários do nosso nobre amigo falhem todos.
+A sua tarefa é encontrar o motivo que faz com que os testes unitários do nosso nobre amigo falhem e corrigí-los, para que ele possa rodar todos eles e ir para casa feliz.
 
 A equipe chinesa sugiriu o uso da IDE: [Intellij](https://www.jetbrains.com/idea/download)
 
