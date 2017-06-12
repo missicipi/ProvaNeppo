@@ -1,6 +1,6 @@
 # **NEPPO - Teste Java 1** #
 
-João Armless está com um problema em sua vida acadêmica. Por mais que tente, não consegue fazer com que o projeto que pagou para que uma equipe altamente qualificada situada em Xangai desenvolver, rode sem erros.
+João Armless está com um problema em sua vida acadêmica. Por mais que tente, não consegue fazer com que o projeto que pagou para que uma equipe (altamente qualificada situada em Xangai) desenvolva, rode sem erros.
 
 Desta forma, comovidos com o caso do pobre Joãozinho, a Neppo decidiu ajudá-lo.
 
