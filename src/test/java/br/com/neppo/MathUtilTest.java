@@ -40,5 +40,14 @@ public class MathUtilTest {
 
         assertFalse(MathUtil.subsetSumChecker(ints, sum));
     }
+    
+    @Test
+    public void testSum3() throws Exception {
+
+        int ints[] = {10, 10, 10, 15, -45};
+        int sum = 45;
+
+        assertTrue(MathUtil.subsetSumChecker(ints, sum));
+    }
 
 }
